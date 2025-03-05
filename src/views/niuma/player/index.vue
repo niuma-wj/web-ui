@@ -33,6 +33,7 @@
 
         <el-table v-loading="loading" :data="playerList">
           <el-table-column label="ID" align="center" prop="playerId" />
+          <el-table-column label="账号" align="center" prop="account" />
           <el-table-column label="昵称" align="center" prop="nickname" />
           <el-table-column label="头像" align="center" prop="headUrl" width="100">
             <template slot-scope="scope">
