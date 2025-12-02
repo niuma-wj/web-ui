@@ -9,7 +9,7 @@
 
 # 管理后台
 
-![web-ui](https://gitee.com/friedrich-hegel/data/raw/master/web-ui.png)
+![web-ui](https://github.com/niuma-wj/data/blob/main/web-ui.png?raw=true)
 
 # 联系方式
 
